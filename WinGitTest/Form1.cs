@@ -31,5 +31,10 @@ namespace WinGitTest
         {
             button3.Text = "ClickClickMe";
         }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
