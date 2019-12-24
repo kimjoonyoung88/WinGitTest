@@ -26,5 +26,10 @@ namespace WinGitTest
         {
             this.Text = "추가버튼클릭";
         }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            button3.Text = "ClickClickMe";
+        }
     }
 }
